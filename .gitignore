@@ -1,0 +1,57 @@
+# Visual Studio generated files
+Debug/
+Release/
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.aps
+ipch/
+.vs/
+
+# Visual Studio database files
+*.sdf
+*-DESKTOP-*.sdf
+*-PCGAME-*.sdf
+
+# Claude Code configuration
+.claude/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Visual Studio cache/options
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IntelliCode
+.vscode/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
